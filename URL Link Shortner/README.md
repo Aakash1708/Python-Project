@@ -1,8 +1,8 @@
-##Description
+## Description
 The URL Link Shortener is a simple application built using the Tkinter library in Python. 
 It allows users to shorten long URLs into shorter, more manageable ones using the TinyURL API.
 
-##Usage
+## Usage
 Run the Python script url_link_short.py.
 The application window will open.
 Paste the URL you want to shorten into the text entry field.
@@ -10,7 +10,7 @@ Click the "Create" button.
 The shortened URL will be displayed in the output field.
 You can copy the shortened URL and use it as needed.
 
-##Example
+## Example
 Here is an example of how to use the URL Link Shortener:
 
 1. Run the script and open the application window.
@@ -19,7 +19,7 @@ Here is an example of how to use the URL Link Shortener:
 4. The shortened URL, such as http://tinyurl.com/xyz, will be displayed in the output field.
 5. Copy the shortened URL and use it as needed.
 
-##Author
+## Author
 Aakash Gupta
 
 
