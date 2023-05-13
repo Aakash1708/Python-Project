@@ -23,4 +23,7 @@ Here is an example of how to use the URL Link Shortener:
 Aakash Gupta
 
 
-
+![1](https://github.com/Lofs1708/Python-Project/assets/43983317/0f793804-8fc4-4283-a4b1-6b67d9b591e5)
+![2](https://github.com/Lofs1708/Python-Project/assets/43983317/189a2506-be0f-4808-ba93-283d98618f59)
+![3](https://github.com/Lofs1708/Python-Project/assets/43983317/89a7e3bc-f3e2-4e3a-bd2b-54dc2db8c0b4)
+![4](https://github.com/Lofs1708/Python-Project/assets/43983317/b3438ed6-35c4-40df-947e-a07927a0986f)
